@@ -1,0 +1,9 @@
+{
+  "name": "digitalizace-videa",
+  "version": "0.1.0",
+  "description": "Video z YouTube nebo z disku převede na snímky a přepis s časy a Claude z toho napíše zápis (návod, shrnutí). Česky.",
+  "author": {
+    "name": "Ondra N"
+  },
+  "license": "MIT"
+}

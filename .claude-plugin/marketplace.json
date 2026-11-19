@@ -1,0 +1,14 @@
+{
+  "name": "digitalizace-videa-skill",
+  "description": "Skill pro Claude Code: ať Claude „zhlédne“ video – snímky + přepis s časy → zápis.",
+  "owner": {
+    "name": "Ondra N"
+  },
+  "plugins": [
+    {
+      "name": "digitalizace-videa",
+      "source": "./",
+      "description": "Video z YouTube nebo z disku převede na snímky a přepis s časy a Claude z toho napíše zápis (návod, shrnutí). Česky."
+    }
+  ]
+}
